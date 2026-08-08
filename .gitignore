@@ -4,6 +4,7 @@
 data/raw/
 data/zips/
 
+
 # Ignore everything by default
 data/*
 outputs/*
@@ -80,3 +81,6 @@ results/
 results_renku_260625/
 results/
 results_renku_260625/
+
+# old scripts
+/old_scripts/
